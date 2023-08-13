@@ -1,0 +1,7 @@
+data/
+*.pkl
+*.pth
+*.gz
+*.zip
+**/__pycache__/
+*.txt
